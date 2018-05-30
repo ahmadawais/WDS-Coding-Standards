@@ -1,6 +1,6 @@
 {
-    "name": "webdevstudios/wds-coding-standards",
-    "description": "In-house linting and coding standards for WebDevStudios",
+    "name": "ahmadawais/wp-coding-standards",
+    "description": "In-house linting and coding standards by Ahmad Awai",
     "type": "library",
     "minimum-stability": "stable",
     "authors": [],
